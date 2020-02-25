@@ -12,3 +12,8 @@ Febuary 18th:
     > Character physics
     > Grabbable object (rock hitboxes)
   Main source: https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+
+Febuary 25th:
+  Worked on ClimbingDemo V0.1 functionalities with Ali:
+    > Worked on the scene environment and project hierarchy
+    > Worked on player and camera controller scripts
