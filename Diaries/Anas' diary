@@ -15,3 +15,7 @@ Feb 25:
 
 Mar 6:
  - created the character for the first version of the game on blender.
+
+Mar 11:
+ - finished creating the character and implementing the skeleton of the character.
+ - combined the mesh of every object (limb) of the character with the bones
